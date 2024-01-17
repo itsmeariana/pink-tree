@@ -5,11 +5,11 @@ const colorThreeButton = document.getElementById("colorThree");
 const corpo = document.querySelector("body");
 
 colorOneButton.addEventListener("click", () => {
-    corpo.style.backgroundColor = "#90ee90";
+    corpo.style.backgroundColor = "#E01180";
   });
 colorTwoButton.addEventListener("click", () => {
-    corpo.style.backgroundColor = "#87cefa";
+    corpo.style.backgroundColor = "##2D1640";
   });
 colorThreeButton.addEventListener("click", () => {
-    corpo.style.backgroundColor = "#778899";
+    corpo.style.backgroundColor = "#0FA9D9";
   });
