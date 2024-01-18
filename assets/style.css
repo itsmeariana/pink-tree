@@ -6,6 +6,7 @@
     --background-color1: #E01180;
     --background-color2: #B511E0;
     --background-color3: #0FA9D9;
+    --background-color4: #E9Bf11;
     --fill-link: #7CD3CC;
     --others: #12081A;
     --hover: #E01180;
@@ -96,15 +97,15 @@ body {
 }
 
 #colorsTable #colorOne{
-    background-color: var(--background-color1);
+    background-color: var(--background-color2);
 }
 #colorsTable #colorOne:focus {
 }
 #colorsTable #colorTwo{
-    background-color: var(--background-color2);
+    background-color: var(--background-color3);
 }
 #colorsTable #colorThree{
-    background-color: var(--background-color3);
+    background-color: var(--background-color4);
 }
 
 #icons {
